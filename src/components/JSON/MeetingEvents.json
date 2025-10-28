@@ -1,0 +1,98 @@
+[
+	{
+		"id": 1,
+		"title": "The Grand Ballroom",
+		"description": "Romantic and glamorous, the elegance of this ballroom is illuminated by antique crystal chandeliers and textured walls adorned with ornate moldings, vintage oversized paintings and sparkling mirrors, with a direct view of Brighton Park, the boardwalk and ocean.",
+		"icon": { "url": "/TheGrandBallroom.avif" },
+		"buttonText": "Learn more",
+		"buttonURL": "/meetings-events/grand-ballroom"
+	},
+	{
+		"id": 2,
+		"title": "The Main Ballroom",
+		"description": "A classic ballroom, simple in design, but it’s big on space, providing limitless options for any function",
+		"icon": { "url": "/TheMainBallroom.avif" },
+		"buttonText": "Learn more",
+		"buttonURL": "/meetings-events/main-ballroom"
+	},
+    {
+        "id": 3,
+        "title": "The Conference Center",
+        "description": "The Conference Center is the premier destination for all your event needs, offering a blend of historic elegance and modern convenience. Our state-of-the-art facility boasts flexible meeting spaces that can be tailored to host a wide range of gatherings, from intimate meetings to grand conferences. Equipped with cutting-edge audiovisual technology, high-speed internet access, and on-site technical support, we ensure your presentations and communications proceed without a hitch.",
+        "icon": { "url": "/TheConferenceCenter.avif" },
+        "buttonText": "Learn more",
+        "buttonURL": "/meetings-events/conference-center"
+    },
+    {
+        "id": 4,
+        "title": "The Ocean View",
+        "description": "The Ocean view  offers a charming and elegant event space, providing a picturesque backdrop with views of the Atlantic Ocean and the Atlantic City Boardwalk. This venue is ideal for a variety of events, accommodating up to 250 guests for banquets, making it a perfect choice for those seeking a unique and scenic setting for their special occasion",
+        "icon": { "url": "/TheOceanView.avif" },
+        "buttonText": "Learn more",
+        "buttonURL": "/meetings-events/ocean-view"
+    },
+    {
+        "id": 5,
+        "title": "Southampton",
+        "description": "A timeless room, the elegant and rich textures of the dark wood are accentuated by art deco styled glass sconces and matching chandeliers, perfect for intimate events",
+        "icon": { "url": "/Southampton.avif" },
+        "buttonText": "Learn more",
+        "buttonURL": "/meetings-events/southampton-room"
+    },
+    {
+        "id": 6,
+        "title": "Art Gallery",
+        "description": "Our unique art gallery has a contemporary vibe, with high ceilings and original chandeliers from the casino era, the minimalist design and elegant ambiance, combined with Malcolm’s Lounge adjacent to the art gallery gives you the perfect atmosphere for cocktail hour.",
+        "icon": { "url": "/ArtGallery.avif" },
+        "buttonText": "Learn more",
+        "buttonURL": "/meetings-events/art-gallery"
+    },
+    {
+        "id": 7,
+        "title": "Celebrity Theatre",
+        "description": "The Celebrity Theatre in Atlantic City is a versatile venue that can host almost any event imaginable, from performances to ceremonies. Its cozy banquettes and capacity for up to 350 guests in theatre-style seating make it perfect for a range of functions. The theatre's adaptable nature suits everything from arts performances to general sessions, offering a unique and flexible space for your next event.",
+        "icon": { "url": "/CelebrityTheatre.avif" },
+        "buttonText": "Learn more",
+        "buttonURL": "/meetings-events/celebrity-theatre"
+    },
+    {
+        "id": 8,
+        "title": "Arcade",
+        "description": "The Arcade is an engaging venue for children's parties, offering a lively and fun atmosphere. This space is specially designed to host events that are both entertaining and memorable, making it an ideal choice for celebrating special occasions for the younger guests.",
+        "icon": { "url": "/Arcade.avif" },
+        "buttonText": "Learn more",
+        "buttonURL": "/meetings-events/arcade-room"
+    },
+    {
+        "id": 9,
+        "title": "The Pool",
+        "description": "Dive into luxury in our hotel's indoor heated pool, a tranquil oasis designed for year-round enjoyment. Whether you're starting your day with invigorating laps or unwinding with a leisurely swim, the pool's serene waters and comfortable temperature create the perfect escape.",
+        "icon": { "url": "/ThePool.avif" },
+        "buttonText": "Learn more",
+        "buttonURL": "/meetings-events/poolside-pavilion"
+    },
+    {
+        "id": 10,
+        "title": "Vue",
+        "description": "The Vue Lounge is a chic and contemporary event space that offers stunning panoramic views of the city skyline. This stylish venue is perfect for hosting upscale social gatherings, corporate events, and private parties. With its modern decor, comfortable seating, and floor-to-ceiling windows, The Vue Lounge provides an inviting atmosphere where guests can relax and enjoy the breathtaking scenery. Equipped with state-of-the-art audiovisual technology and customizable lighting options, this space ensures a memorable experience for all attendees.",
+        "icon": { "url": "/Vue.avif" },
+        "buttonText": "Learn more",
+        "buttonURL": "/meetings-events/vue-lounge"
+    },
+    {
+        "id": 11,
+        "title": "Twenties Restaurant",
+        "description": "A delightful culinary gem nestled on the 6th floor allows guests to be transported back to the glamorous era of the 1920s, where cuisine reigns supreme. Featuring the 2nd oldest prohibition era bar in AC. ",
+        "icon": { "url": "/TwentiesRestaurant.avif" },
+        "buttonText": "Learn more",
+        "buttonURL": "/meetings-events/twenties-restaurant"
+    },
+    {
+        "id": 12,
+        "title": "Leavander 22",
+        "description": "Leavander's 22 Southern Cuisine, nestled within The Claridge Hotel in Atlantic City, offers a delightful journey into the heart of Southern hospitality and flavors. This charming restaurant presents a curated menu of classic Southern dishes, reimagined with a modern twist and crafted from the freshest ingredients.",
+        "icon": { "url": "/Leavanders.avif" },
+        "buttonText": "Learn more",
+        "buttonURL": "/meetings-events/leavander-22"
+    }
+]
